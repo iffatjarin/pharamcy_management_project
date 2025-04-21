@@ -1,0 +1,1 @@
+# pharamcy_management_project
