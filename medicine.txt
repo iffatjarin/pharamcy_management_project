@@ -1,0 +1,45 @@
+Name: napa
+Manufacturer: Beximco ltd
+Serial No: 10001
+Price: 2.00
+Expiry Date: 23-12-2026
+Name: deslor
+Manufacturer: Orion ltd
+Serial No: 10002
+Price: 5.00
+Expiry Date: 21-11-2026
+Name: monas
+Manufacturer: ACME ltd
+Serial No: 10003
+Price: 10.00
+Expiry Date: 22-10-2026
+Name: Ace
+Manufacturer: Square pharma
+Serial No: 10004
+Price: 10.00
+Expiry Date: 23-05-2026
+Name: Sergel
+Manufacturer: Healthcare pharma
+Serial No: 10005
+Price: 7.00
+Expiry Date: 26-7-2026
+Name: Xinc B
+Manufacturer: Eskayef pharma
+Serial No: 10008
+Price: 3.50
+Expiry Date: 23-04-2027
+Name: Antacid Plus
+Manufacturer: Pharmik lab
+Serial No: 10009
+Price: 2.00
+Expiry Date: 23-07-2025
+Name: MaxPro
+Manufacturer: Renata
+Serial No: 10010
+Price: 10.00
+Expiry Date: 21-05-2026
+Name: zimax
+Manufacturer: Square Pharma
+Serial No: 10011
+Price: 25.00
+Expiry Date: 23-08-2026
